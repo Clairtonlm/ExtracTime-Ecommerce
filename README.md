@@ -58,4 +58,4 @@ This project is created as a demonstration and does not include any real e-comme
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE
+This project is licensed under the [MIT License]
